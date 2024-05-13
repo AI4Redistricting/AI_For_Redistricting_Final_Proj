@@ -1,1 +1,1 @@
-# AI_For_Redistricting_Final_Proj
+# Python Files and Final Project Report on Gerrymandering Analysis in Illinois
