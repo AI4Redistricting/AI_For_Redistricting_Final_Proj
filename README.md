@@ -18,6 +18,10 @@
 
 * MAUP.py
 
+* Boxplots.py
+
+* prettyhistograms.py
+
 * Final Project Report (PDF)
 
 
